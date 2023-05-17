@@ -5,14 +5,15 @@
 I have a keen interest for Artificial Intelligence and Machine Learning. And I love using data and programming to solve problems!
 <p>&nbsp;</p>
 
+**My Technical Skills include:**
 <details open>
-<summary> My Technical Skills include: </summary>
+<summary>  </summary>
 <ul>
-Machine Learning Tools: PyTorch, TensorFlow, Keras, Pandas, NumPy, Scikit-learn, Open-CV 
-Data Visualization Tools: Metabase, Matplotlib, Seaborn, Plotly
-Maths: Linear Algebra, Analysis, Statistics
-Programming: Python, PostgreSQL, Bash, Git, Java, C++
-Cloud: AWS, Docker
+  <li>Machine Learning Tools: PyTorch, TensorFlow, Keras, Pandas, NumPy, Scikit-learn, Open-CV </li>
+  <li>Data Visualization Tools: Metabase, Matplotlib, Seaborn, Plotly</li>
+  <li>Maths: Linear Algebra, Analysis, Statistics</li>
+  <li>Programming: Python, PostgreSQL, Bash, Git, Java, C++</li>
+  <li>Cloud: AWS, Docker</li>
 </ul>
 </details>
 
