@@ -1,10 +1,13 @@
 # Hello, world! It's Ángela 🌸
 
-#### I'm a Biomedical Engineer specialising in Data Science with 2.5 years of experience in Python and one year of experience implementing deep-learning solutions in the medical imaging field. 
+#### I'm a Biomedical Engineer specialising in Data Science with 2.5 years of experience in Python and one year of experience implementing deep-learning solutions in the medical imaging field.
 
-I have a keen interest for Artificial Intelligence and Machine Learning. And I love using data and programming to solve problems!
+- 🔍 I'm looking for a junior data science position 
+- 📚 At the moment, I am refining my Data Science skills at Spiced Academy (ETL, SQL, Deep Learning and more!)
+- 🤓 I love data and combining it with my technical skills to solve problems
+- 💘 I'm outgoing, love meeting new people, reading fantasy novels 📚 and dancing 🪩
+
 <p>&nbsp;</p>
-
 <details open>
   <summary><b>My Technical Skills include:</b></summary>
 <ul>
@@ -16,10 +19,14 @@ I have a keen interest for Artificial Intelligence and Machine Learning. And I l
 </ul>
 </details>
 
-**My spoken languages include:**
-* Spanish: Fluent
-* English: Fluent
-* German: A2
+<details open>
+  <summary><b>My spoken languages include:</b></summary>
+<ul>
+  <li>Spanish: Native Speaker</li>
+  <li>English: C1</li>
+  <li>German: A2</li>
+</ul>
+</details>
 
 <!--
 **angasan/angasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
