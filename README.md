@@ -1,4 +1,4 @@
-### Hello world! It's Ángela 🌸
+# Hello, world! It's Ángela 🌸
 
 <!--
 **angasan/angasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
