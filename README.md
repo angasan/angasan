@@ -1,8 +1,8 @@
-# Hello, world! It's Ángela 🌸
+# Hello, world. It's Ángela!
 
 #### I'm a Biomedical Engineer specialising in Data Science with 2.5 years of experience in Python and one year of experience implementing deep-learning solutions in the medical imaging field.
 
-- 🔍 I'm looking for a junior Data Science position in a company where I can keep growing my skillset.
+- 🔍 I'm looking for a Junior Data Science position in a company where I can keep growing my skillset.
 - 📚 At the moment, I am refining my Data Science skills at Spiced Academy (ETL, SQL, Deep Learning and more!).
 - 🤓 I love data and combining it with my technical skills to solve problems.
 - 💘 I'm outgoing, love meeting new people, reading fantasy novels 📚 and dancing 🪩.
