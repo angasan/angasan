@@ -5,9 +5,8 @@
 I have a keen interest for Artificial Intelligence and Machine Learning. And I love using data and programming to solve problems!
 <p>&nbsp;</p>
 
-**My Technical Skills include:**
 <details open>
-<summary>  </summary>
+  <summary><b>My Technical Skills include:</b></summary>
 <ul>
   <li>Machine Learning Tools: PyTorch, TensorFlow, Keras, Pandas, NumPy, Scikit-learn, Open-CV </li>
   <li>Data Visualization Tools: Metabase, Matplotlib, Seaborn, Plotly</li>
