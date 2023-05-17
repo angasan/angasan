@@ -6,13 +6,14 @@ I have a keen interest for Artificial Intelligence and Machine Learning. And I l
 <p>&nbsp;</p>
 
 <details open>
-<summary>**My Technical Skills include:**</summary>
-<br>
-* **Machine Learning Tools:** PyTorch, TensorFlow, Keras, Pandas, NumPy, Scikit-learn, Open-CV 
-* **Data Visualization Tools:** Metabase, Matplotlib, Seaborn, Plotly
-* **Maths:** Linear Algebra, Analysis, Statistics
-* **Programming:** Python, PostgreSQL, Bash, Git, Java, C++
-* **Cloud:** AWS, Docker
+<summary> My Technical Skills include: </summary>
+<ul>
+Machine Learning Tools: PyTorch, TensorFlow, Keras, Pandas, NumPy, Scikit-learn, Open-CV 
+Data Visualization Tools: Metabase, Matplotlib, Seaborn, Plotly
+Maths: Linear Algebra, Analysis, Statistics
+Programming: Python, PostgreSQL, Bash, Git, Java, C++
+Cloud: AWS, Docker
+</ul>
 </details>
 
 **My spoken languages include:**
