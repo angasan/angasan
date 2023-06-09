@@ -1,4 +1,4 @@
-# Hello, world. It's Ángela!
+# It's Ángela!
 
 #### I'm a Biomedical Engineer specialising in Data Science with 2.5 years of experience in Python and one year of experience implementing deep-learning solutions in the medical imaging field.
 
