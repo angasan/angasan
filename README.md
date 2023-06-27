@@ -1,21 +1,23 @@
-# It's Ángela!
+# Hola, mundo. It's Ángela!
 
-#### I'm a Biomedical Engineer specialising in Data Science with 2.5 years of experience in Python and one year of experience implementing deep-learning solutions in the medical imaging field.
+#### I'm a Biomedical Engineer specialising in Data Science with 3 years of experience in Python and one year of experience implementing Deep Learning solutions in the medical imaging field.
 
-- 🔍 I'm looking for a junior position in a company where I can keep growing my skillset within the medical field.
-- 📚 At the moment, I am refining my Data Science skills at Spiced Academy (ETL, SQL, Deep Learning and more!).
-- 🤓 I love data and combining it with my technical skills to solve problems.
-- 💘 I'm outgoing, love meeting new people, reading fantasy novels 📚 and dancing 🪩.
+Get to know me:
+
+- 🔍 I'm looking for a position in the healthcare industry where I can put my skill set to use to create a healthier world.
+- 📚 I recently finished a Data Science Bootcamp at Spiced Academy. Here I learnt how to write more professional and efficient code and how to put my knowledge into action.
+- 🤓 I always had a deep interest in the medical field. Consequently, my love for technology, programming and innovation made me pursue a degree where I could use my engineering mind to make new advancements in it.
+- 🌍 I love discovering the world and learning from different cultures. My first international experience was in Perth, Australia, followed by my year abroad at the University of Wisconsin - Madison, USA, and now my journey to learn German in Berlin, Germany. 
 
 <p>&nbsp;</p>
 <details open>
-  <summary><b>My Technical Skills include:</b></summary>
+  <summary><b>Some of my technical skills:</b></summary>
 <ul>
-  <li>Machine Learning Tools: PyTorch, TensorFlow, Keras, Pandas, NumPy, Scikit-learn, Open-CV </li>
-  <li>Data Visualization Tools: Metabase, Matplotlib, Seaborn, Plotly</li>
-  <li>Maths: Linear Algebra, Analysis, Statistics</li>
-  <li>Programming: Python, PostgreSQL, Bash, Git, Java, C++</li>
-  <li>Cloud: AWS, Docker</li>
+  <li><b>Biomedical Engineering</b>: Medical Image and Signal Analysis, Medical Imaging Systems, Medical Devices and Instrumentation, Digitalisation in Healthcare</li>
+   <li><b>Programming</b>: Python, Matlab, Java, PostgreSQL, Bash, Git, Data Structures, Algorithms</li>
+  <li><b>Data Science</b>: PyTorch, TensorFlow, Keras, Pandas, NumPy, Scikit-learn, Open-CV, SimpleITK, AWS, Docker</li>
+  <li><b>Data Visualization Tools</b>: Metabase, Matplotlib, Seaborn, Plotly</li>
+  <li><b>Maths</b>: Linear Algebra, Numerical Analysis, Statistics</li>
 </ul>
 </details>
 
