@@ -1,6 +1,6 @@
 # Hola, mundo. It's Ángela!
 
-#### I'm a Biomedical Engineer specialising in Data Science with three years of experience in Python and one year of experience implementing Deep Learning solutions in the medical imaging field.
+#### I'm a Data Scientist with three years of experience in Python and one year of experience in Data Science and the medical imaging field.
 
 Get to know me:
 
