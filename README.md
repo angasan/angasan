@@ -1,13 +1,13 @@
-# Hola, mundo. It's Ángela!
+# Ángela Galindo
 
 #### I'm a Data Scientist with three years of experience in Python and one year of experience in Data Science and the medical imaging field.
 
 Get to know me:
 
-- 🔍 I'm looking for a position in the healthcare industry where I can put my skill set to use to create a healthier world.
-- 📚 I recently finished a Data Science Bootcamp at Spiced Academy. Here I learnt how to write more professional and efficient code and how to put my knowledge into action.
+- 🔍 I'm currently looking to expand my knowledge in Data Science and analytics through interesting and fulfilling projects.
+- 📚 I obtained a BSc in Biomedical Engineering from the Polytechnic University of Valencia after a year abroad at the University of Wisconsin-Madison where I minored in Computer Science. In 2023 I completed a Data Science Bootcamp at Spiced Academy that helped me expand my knowledge in the field and learn through real-world projects.
 - 🤓 I always had a deep interest in the medical field. Consequently, my love for technology, programming and innovation made me pursue a degree where I could use my engineering mind to make new advancements in medicine.
-- 🌍 I love discovering the world and learning from different cultures. My first international experience was in Perth, Australia, followed by my year abroad at the University of Wisconsin - Madison, USA, and now my journey to learn German in Berlin, Germany. 
+- 🌍 I love discovering the world and learning from different cultures. I am currently located in Berlin, Germany, where I´m also improving my language skills∫. 
 
 <p>&nbsp;</p>
 <details open>
