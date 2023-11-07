@@ -26,7 +26,7 @@ Get to know me:
 <ul>
   <li>Spanish: Native Speaker</li>
   <li>English: C1</li>
-  <li>German: A2</li>
+  <li>German: B1</li>
 </ul>
 </details>
 
