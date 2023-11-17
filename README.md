@@ -1,4 +1,4 @@
-# Ángela Galindo
+# Angela Galindo
 
 #### I'm a Data Scientist with three years of experience in Python and one year of experience in Data Science and the medical imaging field.
 
