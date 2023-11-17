@@ -7,7 +7,7 @@ Get to know me:
 - 🔍 I'm currently looking to expand my knowledge in Data Science and analytics through interesting and fulfilling projects.
 - 📚 I obtained a BSc in Biomedical Engineering from the Polytechnic University of Valencia after a year abroad at the University of Wisconsin-Madison where I minored in Computer Science. In 2023 I completed a Data Science Bootcamp at Spiced Academy that helped me expand my knowledge in the field and learn through real-world projects.
 - 🤓 I always had a deep interest in the medical field. Consequently, my love for technology, programming and innovation made me pursue a degree where I could use my engineering mind to make new advancements in medicine.
-- 🌍 I love discovering the world and learning from different cultures. I am currently located in Berlin, Germany, where I´m also improving my language skills∫. 
+- 🌍 I love discovering the world and learning from different cultures. I am currently located in Berlin, Germany, where I´m also improving my language skills. 
 
 <p>&nbsp;</p>
 <details open>
