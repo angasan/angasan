@@ -7,7 +7,7 @@ Get to know me:
 - 🔍 I'm currently looking to expand my knowledge in Data Science and analytics through fulfilling projects in the medical field.
 - 📚 I obtained a BSc in Biomedical Engineering from the Polytechnic University of Valencia after a year doing research in medical imaging and AI at the University of Wisconsin-Madison. In 2023 I completed a Data Science Bootcamp that helped me expand my knowledge in the field of Artificial Intelligence and learn through real-world projects.
 - 🤓 I always had a deep interest in the medical field. Consequently, my love for technology, programming and innovation made me pursue a degree where I could use my engineering mind to make new advancements in medicine.
-- 🌍 I love discovering the world and learning from different cultures. I am currently located in Berlin, Germany, where I´m working to get my B2 language certification.
+- 🌍 I love discovering the world and learning from different cultures. I am currently located in Berlin, Germany, where I am working to get my B2 language certification.
 - 🔮 In the future, I would like to complete my education by pursuing an MSc in Biomedical Engineering with a focus on Artificial Intelligence to further expand my knowledge after having had some practical experience.
 
 <p>&nbsp;</p>
