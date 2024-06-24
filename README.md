@@ -6,6 +6,7 @@ Get to know me:
 
 - 🔍 **Passionate about Medical AI**: Constantly seeking opportunities to deepen my expertise through innovative projects, cutting-edge research, and participation in courses and conferences.
 - 📚 **Educational Background**: Earned a BSc in Biomedical Engineering from the Polytechnic University of Valencia, following a year of research on computer vision for tumor segmentation at the University of Wisconsin-Madison. In 2023, I completed a Data Science Bootcamp, where I built a solid foundation in Data Science and expanded my knowledge in Artificial Intelligence through weekly real-world projects.
+- 🏥 **Current Work**: Currently conducting research on Artificial Intelligence for osteoporosis diagnosis at Charité in Berlin, involving all stages of the development process—from data munging, exploratory data analysis (EDA), statistical analysis, and visualization to training, hyperparameter tuning, and testing various machine learning models—across four clinical studies.
 
 <p>&nbsp;</p>
 <details open>
